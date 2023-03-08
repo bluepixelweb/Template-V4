@@ -1,15 +1,15 @@
 {
-  "name": "Oak Harbor Web Designs",
-  "email": "hello@oakharbor.com",
-  "phone": "555-779-4407",
-  "phoneFormatted": "(555) 779-4407",
+  "name": "Blue Pixel Web Development",
+  "email": "mike@bluepixel.dev",
+  "phone": "216-412-3566",
+  "phoneFormatted": "(216) 412-3566",
   "address": {
-    "lineOne": "First Address Line",
+    "lineOne": "123 Main st.",
     "lineTwo": "Second Address Line, If Needed",
-    "city": "Denver",
-    "county": "CO",
-    "postcode": "80206",
+    "city": "Cleveland",
+    "county": "OH",
+    "postcode": "44147",
     "mapLink": "https://goo.gl/maps/UAQn4vuGDiwv7DV39"
   },
-  "domain": "www.website.com"
+  "domain": "www.bluepixel.dev"
 }
