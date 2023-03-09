@@ -1,4 +1,4 @@
-# Starter Kit v4 - Eleventy Blog + Netlify CMS
+# Template v4 - Eleventy Blog + Netlify CMS
 
 ## Table of Contents
 
